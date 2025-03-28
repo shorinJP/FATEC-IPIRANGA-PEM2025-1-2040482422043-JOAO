@@ -3,9 +3,10 @@
 * Disciplina: Programaçao Estruturada e Modular          *
 *          Prof. Veríssimo                               *
 *--------------------------------------------------------*
-* Objetivo do Programa: xxxxxxxxxxxxxxxxxx               *
-* Data - dd/mm/aaaa                                      * 
-* Autor: xxxxxxxxxxxxxxxxx;xxxxxxxxxxxxxxxxx             *
+* Objetivo do Programa: Modularizaçào de código de       *
+* controle de estoque                                    *
+* Data - 23/03/2025                                      * 
+* Autor: João Pedro Alves dos Santos                     *
 *--------------------------------------------------------*/
 
 #include <stdio.h>
