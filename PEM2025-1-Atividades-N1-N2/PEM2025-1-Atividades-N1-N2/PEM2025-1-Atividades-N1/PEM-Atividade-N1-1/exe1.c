@@ -1,3 +1,13 @@
+/*-------------------------------------------------------*
+*                      FATEC Ipiranga                    *
+* Disciplina: Programaçao Estruturada e Modular          *
+*          Prof. Veríssimo                               *
+*--------------------------------------------------------*
+* Objetivo do Programa: xxxxxxxxxxxxxxxxxx               *
+* Data - dd/mm/aaaa                                      * 
+* Autor: xxxxxxxxxxxxxxxxx;xxxxxxxxxxxxxxxxx             *
+*--------------------------------------------------------*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
